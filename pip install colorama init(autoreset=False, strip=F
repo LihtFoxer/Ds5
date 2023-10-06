@@ -1,0 +1,1 @@
+pip install colorama init(autoreset=False, strip=False, convert=None, wrap=True)
